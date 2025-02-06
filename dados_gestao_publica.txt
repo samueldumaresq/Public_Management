@@ -1,0 +1,51 @@
+Estado	Município	Índice de Transparência Governamental (Escala de 0 a 100)	Eficiência Operacional dos Serviços Públicos (Escala de 1 a 5)	Nível de Digitalização dos Serviços (Escala de 1 a 5)	Participação Cidadã (Escala de 1 a 5)	Qualidade dos Serviços Públicos (Escala de 1 a 5)	Acessibilidade dos Serviços Públicos (Escala de 1 a 5)
+São Paulo	São Paulo	85	4	4	4	4	5
+Rio de Janeiro	Rio de Janeiro	72	3	3	3	3	4
+Minas Gerais	Belo Horizonte	78	4	4	3	4	4
+Bahia	Salvador	65	2	2	2	2	3
+Rio Grande do Sul	Porto Alegre	80	4	4	4	4	5
+Paraná	Curitiba	82	4	5	4	5	5
+Pernambuco	Recife	70	3	3	3	3	4
+Ceará	Fortaleza	68	2	2	2	2	3
+Goiás	Goiânia	75	3	4	3	4	4
+Amazonas	Manaus	58	1	1	1	1	2
+Pará	Belém	61	2	2	2	2	3
+Santa Catarina	Florianópolis	88	5	5	5	5	5
+Espírito Santo	Vitória	79	4	4	4	4	4
+Paraíba	João Pessoa	62	2	2	2	2	3
+Mato Grosso	Cuiabá	73	3	3	3	3	4
+Mato Grosso do Sul	Campo Grande	76	4	4	4	4	4
+Piauí	Teresina	55	1	1	1	1	2
+Rio Grande do Norte	Natal	60	2	2	2	2	3
+Alagoas	Maceió	52	1	1	1	1	2
+Sergipe	Aracaju	63	2	2	2	2	3
+Tocantins	Palmas	71	3	3	3	3	4
+Rondônia	Porto Velho	56	1	1	1	1	2
+Acre	Rio Branco	50	1	1	1	1	2
+Amapá	Macapá	53	1	1	1	1	2
+Roraima	Boa Vista	51	1	1	1	1	2
+São Paulo	Campinas	83	4	5	4	5	5
+Rio de Janeiro	Niterói	75	3	4	3	4	4
+Minas Gerais	Uberlândia	79	4	4	4	4	4
+Bahia	Feira de Santana	67	2	2	2	2	3
+Rio Grande do Sul	Caxias do Sul	81	4	5	4	5	5
+Paraná	Londrina	84	4	4	4	4	5
+Pernambuco	Caruaru	72	3	3	3	3	4
+Ceará	Juazeiro do Norte	69	2	2	2	2	3
+Goiás	Aparecida de Goiânia	77	3	4	3	4	4
+Amazonas	Manacapuru	59	1	1	1	1	2
+Pará	Santarém	63	2	2	2	2	3
+Santa Catarina	Blumenau	86	5	5	5	5	5
+Espírito Santo	Vila Velha	80	4	4	4	4	4
+Paraíba	Campina Grande	65	2	2	2	2	3
+Mato Grosso	Rondonópolis	74	3	3	3	3	4
+Mato Grosso do Sul	Dourados	78	4	4	4	4	4
+Piauí	Parnaíba	57	1	1	1	1	2
+Rio Grande do Norte	Mossoró	62	2	2	2	2	3
+Alagoas	Arapiraca	54	1	1	1	1	2
+Sergipe	Nossa Senhora do Socorro	66	2	2	2	2	3
+Tocantins	Araguaína	70	3	3	3	3	4
+Rondônia	Ji-Paraná	58	1	1	1	1	2
+Acre	Cruzeiro do Sul	52	1	1	1	1	2
+Amapá	Santana	55	1	1	1	1	2
+Roraima	Caracaraí	53	1	1	1	1	2
